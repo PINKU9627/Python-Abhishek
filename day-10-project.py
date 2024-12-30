@@ -19,4 +19,4 @@ for folder in folders_list:
     for file in files:
 
         print(file)
-    
+# python -m trace -t day-10-project.py    
